@@ -2,4 +2,7 @@
 
 ## Olá, Tudo bem ?
 
-- Item Lista
+- BATE PAPO:
+- TUDO BEM ?
+- SIM, E VC ?
+- NÃO
