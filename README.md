@@ -2,7 +2,7 @@
 
 ## Olá, Tudo bem ?
 
-- BATE PAPO:
+- BATE PAPO :
 - TUDO BEM ?
 - SIM, E VC ?
-- NÃO
+- NÃO 
